@@ -2,9 +2,6 @@ print("------")
 print("v.1.1")
 print("------")
 
-#maximum word length. Can be modified
-maxLength = 7
-
 #read english words list from .txt file
 data = []
 file = open("words.txt", "r")
